@@ -1,0 +1,10 @@
+D:\Прога\C#\XML(lab3)\Manager\bin\Debug\Manager.exe.config
+D:\Прога\C#\XML(lab3)\Manager\bin\Debug\Manager.exe
+D:\Прога\C#\XML(lab3)\Manager\bin\Debug\Manager.pdb
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\XMLlab3.csprojAssemblyReference.cache
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\XMLlab3.csproj.GenerateResource.cache
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\XMLlab3.csproj.CoreCompileInputs.cache
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\Manager.exe
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\Manager.pdb
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\XMLlab3.FormXML.resources

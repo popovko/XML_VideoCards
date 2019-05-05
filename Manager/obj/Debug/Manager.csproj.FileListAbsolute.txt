@@ -1,0 +1,88 @@
+D:\Vlad\Proga\C#\Manager\Manager\bin\Debug\Manager.exe.config
+D:\Vlad\Proga\C#\Manager\Manager\obj\Debug\Manager.FormManager.resources
+D:\Vlad\Proga\C#\Manager\Manager\obj\Debug\Manager.FormTXTRedactor.resources
+D:\Vlad\Proga\C#\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\Vlad\Proga\C#\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\Vlad\Proga\C#\Manager\Manager\bin\Debug\Manager.exe
+D:\Vlad\Proga\C#\Manager\Manager\bin\Debug\Manager.pdb
+D:\Vlad\Proga\C#\Manager\Manager\obj\Debug\Manager.exe
+D:\Vlad\Proga\C#\Manager\Manager\obj\Debug\Manager.pdb
+D:\Vlad\Proga\C#\Manager\Manager\obj\Debug\Manager.FormCreator.resources
+D:\Vlad\Proga\C#\Manager\Manager\obj\Debug\Manager.FormExcel.resources
+D:\Vlad\Proga\C#\Manager\Manager\obj\Debug\Manager.FormXML.resources
+D:\Vlad\Proga\C#\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\bin\Debug\Manager.exe.config
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\obj\Debug\Manager.exe
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\obj\Debug\Manager.pdb
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\bin\Debug\Manager.exe
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\bin\Debug\Manager.pdb
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\obj\Debug\Manager.FormManager.resources
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\obj\Debug\Manager.FormCreator.resources
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\obj\Debug\Manager.FormExcel.resources
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\obj\Debug\Manager.FormTXTRedactor.resources
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\obj\Debug\Manager.FormXML.resources
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\Vlad\Proga\C#\2_kurs\1_sem\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.FormManager.resources
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.FormCreator.resources
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.FormExcel.resources
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.FormTXTRedactor.resources
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.FormXML.resources
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\User\Desktop\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.pdb
+F:\oop\Manager\Manager(1)\Manager\Manager\bin\Debug\Manager.exe.config
+F:\oop\Manager\Manager(1)\Manager\Manager\bin\Debug\Manager.exe
+F:\oop\Manager\Manager(1)\Manager\Manager\bin\Debug\Manager.pdb
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.FormManager.resources
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.FormCreator.resources
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.FormExcel.resources
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.FormTXTRedactor.resources
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.FormXML.resources
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.exe
+F:\oop\Manager\Manager(1)\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.FormManager.resources
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.FormCreator.resources
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.FormExcel.resources
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.FormTXTRedactor.resources
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.FormXML.resources
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\ЩЕЛКУНЧИК\Desktop\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\popov\OneDrive\Рабочий стол\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\popov\OneDrive\Рабочий стол\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\popov\OneDrive\Рабочий стол\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\popov\OneDrive\Рабочий стол\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\popov\OneDrive\Рабочий стол\Manager\Manager\obj\Debug\Manager.FormXML.resources
+C:\Users\popov\OneDrive\Рабочий стол\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\popov\OneDrive\Рабочий стол\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\popov\OneDrive\Рабочий стол\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\popov\OneDrive\Рабочий стол\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\popov\OneDrive\Рабочий стол\Manager\Manager\obj\Debug\Manager.pdb
+D:\Прога\C#\XML(lab3)\Manager\bin\Debug\Manager.exe.config
+D:\Прога\C#\XML(lab3)\Manager\bin\Debug\Manager.exe
+D:\Прога\C#\XML(lab3)\Manager\bin\Debug\Manager.pdb
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\Manager.FormXML.resources
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\Manager.exe
+D:\Прога\C#\XML(lab3)\Manager\obj\Debug\Manager.pdb

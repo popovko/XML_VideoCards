@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+  <Group>
+    <student ID = "1">
+      <surname> Абрамова </surname>
+      <name>Марія</name>
+      <fathers>Вікторівна</fathers>
+      <rangemark>4.7</rangemark>
+      <phonenumber>0980011123</phonenumber>
+      <status> хороша</status>
+    </student>
+    <student ID = "2">
+      <surname> Білан </surname>
+      <name> Тадей </name>
+      <fathers> Михайлович </fathers>
+      <rangemark>10к</rangemark>
+      <phonenumber>0660022123</phonenumber>
+      <status> директор </status>
+    </student>
+    <student ID = "3">
+      <surname> Войтович </surname>
+      <name>Владислав</name>
+      <fathers>Ігорович</fathers>
+      <rangemark>4.9</rangemark>
+      <phonenumber>0500033123</phonenumber>
+      <status> староста</status>
+    </student>
+    <student ID = "4">
+      <surname> Галуштенко </surname>
+      <name> Анна </name>
+      <fathers> Сергіївна </fathers>
+      <rangemark>4.8</rangemark>
+      <phonenumber>0660044123</phonenumber>
+      <status> в активному пошуку </status>
+    </student>
+    <student ID = "5">
+      <surname> Дарчин </surname>
+      <name>Петро</name>
+      <fathers>Ростиславович</fathers>
+      <rangemark>5.0</rangemark>
+      <phonenumber>0980044123</phonenumber>
+      <status> парсер</status>
+    </student>
+    <student ID = "7">
+      <surname> Жигамовський </surname>
+      <name>Данило</name>
+      <fathers>Олегович</fathers>
+      <rangemark>4.9</rangemark>
+      <phonenumber>0980055123</phonenumber>
+      <status> постригся</status>
+    </student>
+    <student ID = "6">
+      <surname> Єфімов </surname>
+      <name>Денис</name>
+      <fathers></fathers>
+      <rangemark>4.8</rangemark>
+      <phonenumber>0980066124</phonenumber>
+      <status> фрілансер</status>
+    </student>
+    <student ID = "8">
+      <surname> Красноруцький </surname>
+      <name> Єгор </name>
+      <fathers> Олегович </fathers>
+      <rangemark>4.8</rangemark>
+      <phonenumber>0600884123</phonenumber>
+      <status> покерфейс </status>
+    </student>
+    <student ID = "9">
+      <surname> Лук'янова </surname>
+      <name>Анастасія</name>
+      <fathers>Дмитрівна</fathers>
+      <rangemark>4.7</rangemark>
+      <phonenumber>0980099123</phonenumber>
+      <status> денсерша</status>
+    </student>
+    <student ID = "10">
+      <surname> Лукашенко </surname>
+      <name>Дмитро</name>
+      <fathers>Денисович</fathers>
+      <rangemark>4.6</rangemark>
+      <phonenumber>098110023</phonenumber>
+      <status> денсер</status>
+    </student>
+    <student ID = "11">
+      <surname> Матюніна </surname>
+      <name>Одарка</name>
+      <fathers>Миколаївна</fathers>
+      <rangemark>4.9</rangemark>
+      <phonenumber>09811111123</phonenumber>
+      <status> старається</status>
+    </student>
+    <student ID = "12">
+      <surname> Мирошниченко </surname>
+      <name>Марія</name>
+      <fathers>Миколаївна</fathers>
+      <rangemark>5.0</rangemark>
+      <phonenumber>0981122123</phonenumber>
+      <status>Марі </status>
+    </student>
+    <student ID = "13">
+      <surname> Олівко </surname>
+      <name> Дмитрик </name>
+      <fathers> Юрійович </fathers>
+      <rangemark>4.9</rangemark>
+      <phonenumber>0631133123</phonenumber>
+      <status> борода </status>
+    </student>
+    <student ID = "14">
+      <surname> Пащенко </surname>
+      <name>Роман</name>
+      <fathers>Борисович</fathers>
+      <rangemark>4.8</rangemark>
+      <phonenumber>0501144123</phonenumber>
+      <status> кодіть</status>
+    </student>
+    <student ID = "15">
+      <surname> Руденко </surname>
+      <name> Олександр </name>
+      <fathers> Борисович </fathers>
+      <rangemark>4.7</rangemark>
+      <phonenumber>0971155123</phonenumber>
+      <status> альфа </status>
+    </student>
+    <student ID = "16">
+      <surname> Рудич </surname>
+      <name>Галина</name>
+      <fathers>Леонідівна</fathers>
+      <rangemark>4.6</rangemark>
+      <phonenumber>0981166123</phonenumber>
+      <status> з Фізмата</status>
+    </student>
+    <student ID = "17">
+      <surname> Савченко </surname>
+      <name>Роман</name>
+      <fathers>Вікторович</fathers>
+      <rangemark>4.7</rangemark>
+      <phonenumber>0971177123</phonenumber>
+      <status> з Білої Церкви</status>
+    </student>
+    <student ID = "18">
+      <surname> Свінціцький </surname>
+      <name>Олекій</name>
+      <fathers>Олегович</fathers>
+      <rangemark>4.8</rangemark>
+      <phonenumber>0961188124</phonenumber>
+      <status> кібералкаш</status>
+    </student>
+    <student ID = "19">
+      <surname> Семенюк </surname>
+      <name> Вітьок </name>
+      <fathers> Олександрович </fathers>
+      <rangemark>4.8</rangemark>
+      <phonenumber>0601199123</phonenumber>
+      <status> базарик </status>
+    </student>
+    <student ID = "20">
+      <surname> Частоколенко </surname>
+      <name>Дарина</name>
+      <fathers>Ігорівна</fathers>
+      <rangemark>4.9</rangemark>
+      <phonenumber>0982200123</phonenumber>
+      <status> з Черкас </status>
+    </student>
+  </Group>

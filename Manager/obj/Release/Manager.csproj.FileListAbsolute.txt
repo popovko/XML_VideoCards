@@ -1,0 +1,10 @@
+D:\Vlad\Proga\C#\Manager\Manager\bin\Release\Manager.exe.config
+D:\Vlad\Proga\C#\Manager\Manager\bin\Release\Manager.exe
+D:\Vlad\Proga\C#\Manager\Manager\bin\Release\Manager.pdb
+D:\Vlad\Proga\C#\Manager\Manager\obj\Release\Manager.FormManager.resources
+D:\Vlad\Proga\C#\Manager\Manager\obj\Release\Manager.FormCreator.resources
+D:\Vlad\Proga\C#\Manager\Manager\obj\Release\Manager.FormTXTRedactor.resources
+D:\Vlad\Proga\C#\Manager\Manager\obj\Release\Manager.Properties.Resources.resources
+D:\Vlad\Proga\C#\Manager\Manager\obj\Release\Manager.csproj.GenerateResource.Cache
+D:\Vlad\Proga\C#\Manager\Manager\obj\Release\Manager.exe
+D:\Vlad\Proga\C#\Manager\Manager\obj\Release\Manager.pdb
